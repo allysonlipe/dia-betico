@@ -1,4 +1,4 @@
-# dia-betico
+# diabetico
 
 ## Descrição
 Sistema de Monitoramento de HGT para Diabéticos,
@@ -35,12 +35,12 @@ Passo a passo de como configurar o ambiente de desenvolvimento e instalar as dep
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/allysonlipe/dia-betico.git
+   git clone https://github.com/allysonlipe/diabetico.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd dia-betico
+   cd diabetico
    ```
 
 3. Crie e ative um ambiente virtual:
